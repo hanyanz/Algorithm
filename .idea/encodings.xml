@@ -3,8 +3,95 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/ArrayTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/FunNub.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/Game.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/Graph.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/Isbnnub.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/JiHeJinJia.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/MaxRectangle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/MenJinXT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/MostN.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/OppositeNumber.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/Paint.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/ShuDui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/StringPiPei.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/WindowClick.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/ZSaoMiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/ccf/test.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/EqualsMethod2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/FileTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/FirstThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/FourSubString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/Gobang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/Num2Rmb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/crazyJava/ThirdThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/dataStructures/DFS.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/dataStructures/DNASortMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/dataStructures/PlusOne.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/dataStructures/TreeSetCompare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/hihoCoder/hihoCoder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/Chopsticks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/CompareBinary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/CompareBinary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/DivideApple.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/Divisor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/LampNum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/LibraryBooks.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/MoveHome.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/TLVDecode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/TelephoneText.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/huawei/Vote.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/leetCode/Atoi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/leetCode/HappyNumber.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/leetCode/ReverseBits.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/leetCode/ReverseInteger.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/leetCode/ZigZag.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/newCoder/BaiDuShiTang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/newCoder/IsCharOfStringInOtherString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/newCoder/LinkedBubbleSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/newCoder/ToGray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/newCoder/bagPromble.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/Customer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/IntSLLNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/IntSLList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/Object2XmlDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/ProdcerConsumerDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/Suijishu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/otherTests/Xml2ObjectDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Merge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Quanr_decodeString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_StringCompare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_StringToHexString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_file.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_findInSortArr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_findIndexOfNumInArr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_intArrSortToMin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_list.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_mergeHotelPrices.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_randString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/qunar/Qunar_secondString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/Arithmetic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/CountInArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/Digit26.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/Fraction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/LinkedListSummary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/MaxValueBetweenLeftRightMax.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/MinInRotateArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/NumAppearsMoreThanHalfInArr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/OddBeforeEvenInArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/PrintFrom1ToMaxOfN.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/PrintMatrixClockwisely.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/ReplaceBlank4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/ReverseSentence.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/Singleton2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/StrToInt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/TheTwoNumAppearedOnce.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/TreeMirrorRecursively19.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/com.yanzi/swordOffer/TreeSummary.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
